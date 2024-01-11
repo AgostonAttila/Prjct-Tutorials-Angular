@@ -2044,11 +2044,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Programming\\Projects From Others\\Prjct-Chat-AngularNetCore\\Prjct-Chat-AngularNetCore.csproj",
+      "projectUniqueName": "E:\\Programming\\Projects From Others\\Prjct-Tutorials-Angular\\Chat-AngularNetCore\\Prjct-Chat-AngularNetCore.csproj",
       "projectName": "Prjct-Chat-AngularNetCore",
-      "projectPath": "E:\\Programming\\Projects From Others\\Prjct-Chat-AngularNetCore\\Prjct-Chat-AngularNetCore.csproj",
+      "projectPath": "E:\\Programming\\Projects From Others\\Prjct-Tutorials-Angular\\Chat-AngularNetCore\\Prjct-Chat-AngularNetCore.csproj",
       "packagesPath": "C:\\Users\\atesz_3bi4yed\\.nuget\\packages\\",
-      "outputPath": "E:\\Programming\\Projects From Others\\Prjct-Chat-AngularNetCore\\obj\\",
+      "outputPath": "E:\\Programming\\Projects From Others\\Prjct-Tutorials-Angular\\Chat-AngularNetCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

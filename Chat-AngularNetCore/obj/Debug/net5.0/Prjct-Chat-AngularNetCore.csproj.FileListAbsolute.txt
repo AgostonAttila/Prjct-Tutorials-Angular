@@ -1,0 +1,7 @@
+E:\Programming\Projects\Prjct-Chat-AngularNetCore\obj\Debug\net5.0\Prjct-Chat-AngularNetCore.csproj.AssemblyReference.cache
+E:\Programming\Projects From Others\Prjct-Chat-AngularNetCore\obj\Debug\net5.0\Prjct-Chat-AngularNetCore.csproj.AssemblyReference.cache
+E:\Programming\Projects From Others\Prjct-Chat-AngularNetCore\obj\Debug\net5.0\Prjct-Chat-AngularNetCore.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\Projects From Others\Prjct-Chat-AngularNetCore\obj\Debug\net5.0\Prjct-Chat-AngularNetCore.AssemblyInfoInputs.cache
+E:\Programming\Projects From Others\Prjct-Chat-AngularNetCore\obj\Debug\net5.0\Prjct-Chat-AngularNetCore.AssemblyInfo.cs
+E:\Programming\Projects From Others\Prjct-Chat-AngularNetCore\obj\Debug\net5.0\Prjct-Chat-AngularNetCore.csproj.CoreCompileInputs.cache
+E:\Programming\Projects From Others\Prjct-Chat-AngularNetCore\obj\Debug\net5.0\Prjct-Chat-AngularNetCore.MvcApplicationPartsAssemblyInfo.cache
